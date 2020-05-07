@@ -1,11 +1,53 @@
 {
-  "posts": [
+  "operaciones": [
     {
-      "id": 1,
-      "title": "hello"
+      fecha : new Date(),
+      cuenta : '10281001',
+      cantidad : 240500,
+      modalidad : 'm', //monedero o billetera
+      descripcion : "2 kilos de carne y cereal",
+      numReferencia : 1542,
+      isPay: true
+    },
+    {
+      fecha : new Date(),
+      cuenta : '11200813',
+      cantidad : 4050500,
+      modalidad : 'b',
+      descripcion : "pago de los muy buenos masajes",
+      numReferencia : 2000,
+      isPay: false
+    },
+    {
+      fecha : new Date(),
+      cuenta : '27042411',
+      cantidad : 500000,
+      modalidad : 'm', 
+      descripcion : "pago Xbox one ultima generacion",
+      numReferencia : 2500,
+      isPay: true
+    },
+    {
+      fecha : new Date(),
+      cuenta : '355964412',
+      cantidad : 100000000,
+      modalidad : 'b', 
+      descripcion : "cauchos de repuesto",
+      numReferencia : 3000,
+      isPay: false
+    },
+    {
+      fecha : new Date(),
+      cuenta : '15649743',
+      cantidad : 50000,
+      modalidad : 'm', 
+      descripcion : "carne de primera",
+      numReferencia : 3500,
+      isPay: true
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "usuario": {
+    "documentoIdentificacion" : 27042411,
+    "password" : 123
   }
 }
