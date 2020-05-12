@@ -53,5 +53,7 @@
     "apellido" : "Arteaga",
     "correo" : "reinelcorreo@algo.com"
   },
-  "saldo" : 3300000
+  "saldo" : {
+    "saldo" : 3300000
+  }
 }
