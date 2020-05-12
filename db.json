@@ -12,7 +12,7 @@
     {
       "fecha" : "03/Dec/2019 04:12 pm",
       "cuenta" : "11200813",
-      "cantidad" : 4050500,
+      "cantidad" : 40500,
       "modalidad" : "b",
       "descripcion" : "pago de los muy buenos masajes",
       "numReferencia" : 2000,
@@ -30,24 +30,28 @@
     {
       "fecha" : "13/Dec/2019 07:12 pm",
       "cuenta" : "355964412",
-      "cantidad" : 100000000,
+      "cantidad" : 1000000,
       "modalidad" : "b", 
       "descripcion" : "cauchos de repuesto",
       "numReferencia" : 3000,
-      "isPay": false
+      "isPay": true
     },
     {
       "fecha" : "05/Mar/2020 03:03 pm",
       "cuenta" : "15649743",
-      "cantidad" : 50000,
+      "cantidad" : 5000000,
       "modalidad" : "m", 
-      "descripcion" : "carne de primera",
+      "descripcion" : "primera recarga",
       "numReferencia" : 3500,
-      "isPay" : true
+      "isPay" : false
     }
   ],
   "usuario": {
     "documentoIdentificacion" : 27042411,
-    "password" : 123
-  }
+    "password" : 123,
+    "nombre" : "Reinel",
+	"apellido" : "Arteaga",
+	"correo" : "reinelcorreo@algo.com",
+  },
+	"saldo" : 3300000
 }
