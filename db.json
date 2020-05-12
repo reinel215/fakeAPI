@@ -50,8 +50,8 @@
     "documentoIdentificacion" : 27042411,
     "password" : 123,
     "nombre" : "Reinel",
-	"apellido" : "Arteaga",
-	"correo" : "reinelcorreo@algo.com",
+    "apellido" : "Arteaga",
+    "correo" : "reinelcorreo@algo.com"
   },
-	"saldo" : 3300000
+  "saldo" : 3300000
 }
