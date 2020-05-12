@@ -46,7 +46,7 @@
       "isPay" : false
     }
   ],
-  "usuario": {
+  "usuario" : {
     "documentoIdentificacion" : 27042411,
     "password" : 123,
     "nombre" : "Reinel",
