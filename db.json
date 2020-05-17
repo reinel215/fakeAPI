@@ -55,5 +55,26 @@
   },
   "saldo" : {
     "saldo" : 3300000
-  }
+  },
+
+  "bloqueadas" :[
+    {
+      "fecha" : "16/Jul/2019 06:07 am",
+      "cuenta" : "27042412",
+      "cantidad" : 100000,
+      "modalidad" : "m", 
+      "descripcion" : "2 kilos de carne y cereal",
+      "numReferencia" : 1542,
+      "isPay": true
+    },
+    {
+      "fecha" : "16/Jul/2019 06:07 am",
+      "cuenta" : "27042412",
+      "cantidad" : 200000,
+      "modalidad" : "m", 
+      "descripcion" : "2 kilos de carne y cereal",
+      "numReferencia" : 1542,
+      "isPay": true
+    }
+  ]
 }
