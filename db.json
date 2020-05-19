@@ -64,7 +64,7 @@
       "cantidad" : 100000,
       "modalidad" : "m", 
       "descripcion" : "2 kilos de carne y cereal",
-      "numReferencia" : 1542,
+      "numReferencia" : 4000,
       "isPay": true
     },
     {
@@ -72,8 +72,17 @@
       "cuenta" : "27042412",
       "cantidad" : 200000,
       "modalidad" : "m", 
-      "descripcion" : "2 kilos de carne y cereal",
-      "numReferencia" : 1542,
+      "descripcion" : "muchos videojuegos",
+      "numReferencia" : 4001,
+      "isPay": true
+    },
+    {
+      "fecha" : "16/Jul/2019 06:07 am",
+      "cuenta" : "27042412",
+      "cantidad" : 200000,
+      "modalidad" : "m", 
+      "descripcion" : "un PS5",
+      "numReferencia" : 4002,
       "isPay": true
     }
   ]
